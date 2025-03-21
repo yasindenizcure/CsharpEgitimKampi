@@ -1,0 +1,7 @@
+C:\Users\Yasin\source\repos\CSharpMuratYucedag\_2Variables\05_LoopsWithStars\bin\Debug\05_LoopsWithStars.exe.config
+C:\Users\Yasin\source\repos\CSharpMuratYucedag\_2Variables\05_LoopsWithStars\bin\Debug\05_LoopsWithStars.exe
+C:\Users\Yasin\source\repos\CSharpMuratYucedag\_2Variables\05_LoopsWithStars\bin\Debug\05_LoopsWithStars.pdb
+C:\Users\Yasin\source\repos\CSharpMuratYucedag\_2Variables\05_LoopsWithStars\obj\Debug\05_LoopsWithStars.csproj.AssemblyReference.cache
+C:\Users\Yasin\source\repos\CSharpMuratYucedag\_2Variables\05_LoopsWithStars\obj\Debug\05_LoopsWithStars.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\source\repos\CSharpMuratYucedag\_2Variables\05_LoopsWithStars\obj\Debug\05_LoopsWithStars.exe
+C:\Users\Yasin\source\repos\CSharpMuratYucedag\_2Variables\05_LoopsWithStars\obj\Debug\05_LoopsWithStars.pdb

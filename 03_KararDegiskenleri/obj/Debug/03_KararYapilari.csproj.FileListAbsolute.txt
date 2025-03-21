@@ -1,0 +1,7 @@
+C:\Users\Yasin\source\repos\CSharpMuratYucedag\_2Variables\03_KararDegiskenleri\bin\Debug\03_KararDegiskenleri.exe.config
+C:\Users\Yasin\source\repos\CSharpMuratYucedag\_2Variables\03_KararDegiskenleri\bin\Debug\03_KararDegiskenleri.exe
+C:\Users\Yasin\source\repos\CSharpMuratYucedag\_2Variables\03_KararDegiskenleri\bin\Debug\03_KararDegiskenleri.pdb
+C:\Users\Yasin\source\repos\CSharpMuratYucedag\_2Variables\03_KararDegiskenleri\obj\Debug\03_KararYapilari.csproj.AssemblyReference.cache
+C:\Users\Yasin\source\repos\CSharpMuratYucedag\_2Variables\03_KararDegiskenleri\obj\Debug\03_KararYapilari.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\source\repos\CSharpMuratYucedag\_2Variables\03_KararDegiskenleri\obj\Debug\03_KararDegiskenleri.exe
+C:\Users\Yasin\source\repos\CSharpMuratYucedag\_2Variables\03_KararDegiskenleri\obj\Debug\03_KararDegiskenleri.pdb

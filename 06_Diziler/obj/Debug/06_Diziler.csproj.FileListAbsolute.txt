@@ -1,0 +1,7 @@
+C:\Users\Yasin\source\repos\CSharpMuratYucedag\_2Variables\06_Diziler\bin\Debug\06_Diziler.exe.config
+C:\Users\Yasin\source\repos\CSharpMuratYucedag\_2Variables\06_Diziler\bin\Debug\06_Diziler.exe
+C:\Users\Yasin\source\repos\CSharpMuratYucedag\_2Variables\06_Diziler\bin\Debug\06_Diziler.pdb
+C:\Users\Yasin\source\repos\CSharpMuratYucedag\_2Variables\06_Diziler\obj\Debug\06_Diziler.csproj.AssemblyReference.cache
+C:\Users\Yasin\source\repos\CSharpMuratYucedag\_2Variables\06_Diziler\obj\Debug\06_Diziler.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\source\repos\CSharpMuratYucedag\_2Variables\06_Diziler\obj\Debug\06_Diziler.exe
+C:\Users\Yasin\source\repos\CSharpMuratYucedag\_2Variables\06_Diziler\obj\Debug\06_Diziler.pdb

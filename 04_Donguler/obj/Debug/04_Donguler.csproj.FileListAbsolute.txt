@@ -1,0 +1,7 @@
+C:\Users\Yasin\source\repos\CSharpMuratYucedag\_2Variables\04_Donguler\bin\Debug\04_Donguler.exe.config
+C:\Users\Yasin\source\repos\CSharpMuratYucedag\_2Variables\04_Donguler\bin\Debug\04_Donguler.exe
+C:\Users\Yasin\source\repos\CSharpMuratYucedag\_2Variables\04_Donguler\bin\Debug\04_Donguler.pdb
+C:\Users\Yasin\source\repos\CSharpMuratYucedag\_2Variables\04_Donguler\obj\Debug\04_Donguler.csproj.AssemblyReference.cache
+C:\Users\Yasin\source\repos\CSharpMuratYucedag\_2Variables\04_Donguler\obj\Debug\04_Donguler.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\source\repos\CSharpMuratYucedag\_2Variables\04_Donguler\obj\Debug\04_Donguler.exe
+C:\Users\Yasin\source\repos\CSharpMuratYucedag\_2Variables\04_Donguler\obj\Debug\04_Donguler.pdb
