@@ -1,0 +1,7 @@
+C:\Users\Yasin\source\repos\CSharpMuratYucedag\YOUTUBEDERSLER\10_DatabaseCrud\bin\Debug\10_DatabaseCrud.exe.config
+C:\Users\Yasin\source\repos\CSharpMuratYucedag\YOUTUBEDERSLER\10_DatabaseCrud\bin\Debug\10_DatabaseCrud.exe
+C:\Users\Yasin\source\repos\CSharpMuratYucedag\YOUTUBEDERSLER\10_DatabaseCrud\bin\Debug\10_DatabaseCrud.pdb
+C:\Users\Yasin\source\repos\CSharpMuratYucedag\YOUTUBEDERSLER\10_DatabaseCrud\obj\Debug\10_DatabaseCrud.csproj.AssemblyReference.cache
+C:\Users\Yasin\source\repos\CSharpMuratYucedag\YOUTUBEDERSLER\10_DatabaseCrud\obj\Debug\10_DatabaseCrud.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\source\repos\CSharpMuratYucedag\YOUTUBEDERSLER\10_DatabaseCrud\obj\Debug\10_DatabaseCrud.exe
+C:\Users\Yasin\source\repos\CSharpMuratYucedag\YOUTUBEDERSLER\10_DatabaseCrud\obj\Debug\10_DatabaseCrud.pdb
