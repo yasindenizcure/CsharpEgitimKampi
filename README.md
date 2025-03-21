@@ -68,3 +68,6 @@ Bu projede, Dependency Injection kavramını ve nerelerde kullanıldığını ö
 
 Proje 21: Entity'e Özgü Metotlar:
 Bu projede, Data Access Layer'da EntityFramework diye yeni bir klasör oluşturdum. Hepsi (EfAdminDal,EfCategoryDal,EfProductDal,EfCustomerDal,EfOrderDal) Generic Repositories'den miras alan yeni public class'lar. Product için yeni bir form oluşturdum ve SQL'e yeni veri girişleri yaptım. 
+
+Proje 22: Dapper Kullanımı:
+Bu projede, Dapper'ın ne olduğunu ve temel olarak nasıl çalıştığını öğrenip paketlerini kurdum.
