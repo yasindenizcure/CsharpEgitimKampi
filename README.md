@@ -1,4 +1,4 @@
-# CsharpEgitimKampi301
+# CsharpEgitimKampi
 C# EĞİTİM KAMPI 
 Bu repo, ne kadar ilerlediğimi görmek için oluşturduğum C# eğitim kampı video sırasına bağlı bir repo'dur. Murat Yücedağ'ın hocalığında gerçekleştirilen C# eğitim kampı süresince tamamladığım projeleri içermektedir. Günden güne üstüne ekleme yapmaya çalışacağım.
 
